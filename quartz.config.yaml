@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: sg1oo.github.io/second-brain
+  baseUrl: Sg1oo.github.io/second-brain
   ignorePatterns:
     - private
     - templates
